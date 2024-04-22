@@ -1,1 +1,3 @@
-ES6 (ECMAScript 2015) basics is part of the curriculum at ALX. It is a project designed to build on the fundamentals of ES6, covering essential topics like arrow functions, statements, and declarations. It is a significant update to the JavaScript language.
+Welcome to my alx-backend-javascript repository!
+This repository hosts a collection of programs and scripts primarily crafted in JavaScript and TypeScript, all designed to enrich the Backend JavaScript curriculum at ALX.
+
